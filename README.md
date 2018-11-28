@@ -2,4 +2,4 @@
 Small example of how BitCoin validation is done.
 Just run nonce.py in python.
 
-# if on Linux, python -B nonce.py
+if on Linux, python -B nonce.py
